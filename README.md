@@ -1,7 +1,9 @@
-![Web Developer](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg)
-
-### Hi there 👋, I am Alamin Hossain
-#### Web Developer
+## Hi, I'm Alamin Hossain 👋
+<img width="100%" src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg" alt="cover" />
+<p>
+👑 I am Web Developer <br> 
+🖊️ Love to write code <br> 
+🎤 Like to share my knowledge </p>
 
 
 Hello! I'm Alamin Hossain, a passionate web developer and front-end designer with expertise in creating interactive and user-friendly web experiences. With a solid foundation in HTML, CSS, and JavaScript, along with proficiency in Node.js, Express.js, and React.js, I specialize in crafting modern and responsive web applications.
