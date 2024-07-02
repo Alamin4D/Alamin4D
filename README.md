@@ -9,7 +9,29 @@
 Hello! I'm Alamin Hossain, a passionate web developer and front-end designer with expertise in creating interactive and user-friendly web experiences. With a solid foundation in HTML, CSS, and JavaScript, along with proficiency in Node.js, Express.js, and React.js, I specialize in crafting modern and responsive web applications.
 In my professional journey, I have worked on a variety of projects, from developing dynamic single-page applications to designing intuitive user interfaces. My experience includes collaborating with cross-functional teams to deliver high-quality solutions that meet both client and user needs. Let's connect and explore opportunities to collaborate or discuss anything related to web development and design!
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+## :computer: Technologies that I know
+
+<br>
+<p align="center">
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/python.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/c.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/cpp.png"/>
+</p>
+<p align="center">
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
+</p>
+<p align="center">
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
+</p><br/>
+
 
 - 🔭 I’m currently working on Learning 
 - 🌱 I’m currently learning JavaScript 
