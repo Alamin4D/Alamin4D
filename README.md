@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Hero Banner -->
-<img src="https://i.ibb.co/album/3g4Y8wN/Alamin-Hossain-Banner.jpg" alt="Alamin Hossain - Full Stack Developer" width="100%"/>
+<img src="https://static.vecteezy.com/system/resources/thumbnails/070/678/158/small/concept-of-web-development-with-connecting-icons-and-hand-touching-screen-on-dark-background-photo.jpeg" alt="Alamin Hossain - Full Stack Developer" width="100%"/>
 
 <br/>
 
