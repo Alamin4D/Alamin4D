@@ -1,89 +1,83 @@
-<img width="100%" src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg" alt="banner"/>
+<!-- Premium GitHub Profile 2025 Edition - Alamin Hossain -->
 
-<h1 align="center">Hi 👋, I'm Alamin Hossain</h1>
+<div align="center">
+
+<img src="https://github.com/Alamin4D/Alamin4D/assets/110528313/8c9b0f8b-2a0f-4e8f-9b1f-3d8e8e8f9b1f" alt="Alamin Hossain - Web Developer" width="100%"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Alamin+Hossain;%F0%9F%94%A5+Front-End+Developer;%F0%9F%8E%AF+React.js+%7C+Next.js+%7C+Node.js;MERN+Stack+Enthusiast;Let's+build+something+amazing!" alt="Typing SVG" />
+
+<br/><br/>
+
+<a href="https://github.com/Alamin4D">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alamin4D&theme=react&hide_border=true" />
+</a>
+
+<br/>
+
+<!-- Tech Stack Icons -->
+<img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="60" height="60"/>
+<img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS" width="60" height="60"/>
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="60" height="60"/>
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="60" height="60"/>
+<img src="https://techstack-generator.vercel.app/tailwind-icon.svg" alt="Tailwind" width="60" height="60"/>
+<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="60" height="60"/>
+<img src="https://techstack-generator.vercel.app/express-icon.svg" alt="Express" width="60" height="60" style="background:#000"/>
+<img src="https://techstack-generator.vercel.app/mongo-icon.svg" alt="MongoDB" width="60" height="60"/>
+<img src="https://techstack-generator.vercel.app/firebase-icon.svg" alt="Firebase" width="60" height="60"/>
+
+<br/><br/>
+
+<!-- Stats Cards -->
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=Alamin4D&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=ff1cf7&text_color=ffffff&icon_color=00f0ff&hide=prs,issues" />
+<img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=Alamin4D&theme=react&hide_border=true&background=0d1117&stroke=0891b2&ring=ff1cf7&fire=ff1cf7&currStreakLabel=ff1cf7&currStreakNum=ffffff&sideNums=00f0ff&sideLabels=00f0ff" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alamin4D&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=ff1cf7&text_color=ffffff&langs_count=8&size_weight=0.5&count_weight=0.5" />
+
+<br/><br/>
+
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Alamin4D&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
+
+<br/><br/>
+
+### 🔥 Featured Projects (Ready to Impress Recruiters)
+
+| Project                  | Description                                 | Tech Stack                  | Live Demo                    | Source Code                     |
+|--------------------------|---------------------------------------------|-----------------------------|------------------------------|---------------------------------|
+| ShopSphere E-Commerce    | Full-stack modern shopping platform         | React, Node, MongoDB, Stripe| [Live](https://shopsphere.netlify.app) | [Code](https://github.com/Alamin4D/shopsphere) |
+| DevConnect               | Social platform for developers              | MERN + Socket.io            | [Live](https://devconnect-alamin.netlify.app) | [Code](https://github.com/Alamin4D/devconnect) |
+| TaskFlow Pro             | Advanced task manager with team collab      | Next.js 14, Prisma, PostgreSQL | [Live](https://taskflow-pro.vercel.app) | [Code](https://github.com/Alamin4D/taskflow-pro) |
+
+*(Tumi nijer best 3-4 ta project er link diye replace kore niba – na thakle ami placeholder rakhlam)*
+
+<br/><br/>
+
+### 📩 Let's Work Together!
 
 <p align="center">
-  <strong>Passionate Front-End Developer | React.js Enthusiast | Turning Ideas into Beautiful Web Experiences</strong>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Alamin4D">
-    <img src="https://komarev.com/ghpvc/?username=Alamin4D&label=Profile%20Views&color=FF1CF7&style=for-the-badge" alt="profile views" />
+  <a href="https://linkedin.com/in/mdalaminhossain2">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Alamin4D?tab=followers">
-    <img src="https://img.shields.io/github/followers/Alamin4D?label=Followers&style=for-the-badge&color=00F0FF" alt="GitHub followers" />
+  <a href="mailto:mdalaminhossain.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://portfolio-alamin.web.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </p>
 
----
-
-### 🚀 About Me
-- 🔭 Currently building real-world projects with **React.js + Node.js + MongoDB**
-- 🌱 Deepening my expertise in **Next.js, TypeScript & Tailwind CSS**
-- 👯 Open to collaborate on **MERN stack** or **front-end** projects
-- 💬 Ask me anything about **React, Firebase, Responsive Design**
-- ⚡ Fun fact: I can debug CSS in my sleep 😴
-- 📫 Reach me: **mdalaminhossain.dev@gmail.com**
-
 <br/>
 
-### 🛠️ Tech Stack & Tools
+<!-- Contribution Snake -->
+<img src="https://raw.githubusercontent.com/Alamin4D/Alamin4D/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,mongodb,firebase,git,github,vscode" />
-</p>
+<br/><br/>
 
-<br/>
+**Currently open for Front-End / Full-Stack opportunities**  
+Available for freelance & full-time roles | Bangladesh 🇧🇩
 
-### 📊 GitHub Stats & Streaks
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Alamin4D&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=FF1CF7&text_color=FFFFFF&icon_color=00F0FF" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Alamin4D&theme=react&hide_border=true&background=0D1117&stroke=0D1117&ring=FF1CF7&fire=FF1CF7&currStreakLabel=FF1CF7&currStreakNum=FF1CF7&sideNums=00F0FF&sideLabels=00F0FF" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alamin4D&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=FF1CF7&text_color=FFFFFF" />
-</p>
-
-<br/>
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alamin4D&theme=onedark&no-frame=true&margin-w=15&column=7" />
-</p>
-
-<br/>
-
-### 🔥 Featured Projects (Hiring managers LOVE this section)
-
-| Project | Tech Stack | Live | Code |
-|--------|------------|------|------|
-| E-Commerce Dashboard | React, Tailwind, Node.js | [Live](your-link) | [Code](your-link) |
-| TaskFlow – Task Manager | MERN + Firebase Auth | [Live](your-link) | [Code](your-link) |
-| Portfolio V2 | Next.js 14 + Framer Motion | [Live](your-link) | [Code](your-link) |
-
-*(3-4 ta best project add kore diba – live link thakle 1000% impress hobe)*
-
-<br/>
-
-### 📬 Let’s Connect
-
-<p align="center">
-  <a href="https://github.com/Alamin4D"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mdalaminhossain2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.facebook.com/profile.php?id=100022219250367"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="mailto:mdalaminhossain.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
-
----
-
-Ekhon ei README ta copy kore nijer repo te paste korle **pro-level vibe** asbe + hiring manager ra dekhe bole, “Ei cheleta serious!”  
-
-Jodi chaile ami tomar best 3-4 ta project er live link + description diye ekta perfect “Featured Projects” table baniye dibo. Just link gula pathao!  
-
-Best of luck bhai, khub taratari ekta bhalo job peye jaba inshaAllah! 🔥🚀
+</div>
