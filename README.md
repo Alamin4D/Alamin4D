@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Hero Banner -->
-<img src="https://static.vecteezy.com/system/resources/thumbnails/070/678/158/small/concept-of-web-development-with-connecting-icons-and-hand-touching-screen-on-dark-background-photo.jpeg" alt="Alamin Hossain - Full Stack Developer" width="100%"/>
+<img src="https://media.licdn.com/dms/image/v2/D5616AQEKjGg-4zL3Ow/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1708015077343?e=2147483647&v=beta&t=Utel6EGrOCH6lJp1HoAzgNlK4A3I4LhzH5QcbXEHBBo" alt="Alamin Hossain - Full Stack Developer" width="100%"/>
 
 <br/>
 
