@@ -42,12 +42,7 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alamin4D&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&title_color=00D4FF&text_color=ffffff&bg_color=0D1117&langs_count=10" />
-
 <br/><br/>
-
-<!-- Trophies (Premium Look) -->
-<img src="https://github-profile-trophy.vercel.app/?username=Alamin4D&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7&margin-w=20&title_color=00D4FF&text_color=ffffff" />
 
 <br/><br/>
 
@@ -64,7 +59,7 @@
     </td>
     <td align="center" width="33%">
       <a href="https://devconnect-alamin.netlify.app">
-        <img src="https://i.ibb.co.com/Your-DevConnect-Screenshot-Link.jpg" alt="DevConnect" style="border-radius:15px;box-shadow: 0 10px 30px rgba(255,0,102,0.4);"/>
+        <img src="" alt="DevConnect" style="border-radius:15px;box-shadow: 0 10px 30px rgba(255,0,102,0.4);"/>
         <br/><b>DevConnect</b><br/>Social Media for Developers (Socket.io)
       </a>
     </td>
