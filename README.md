@@ -1,106 +1,94 @@
 <div align="center">
 
-<!-- Dynamic Hero Banner -->
-<img src="https://media.licdn.com/dms/image/v2/D5616AQEKjGg-4zL3Ow/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1708015077343?e=2147483647&v=beta&t=Utel6EGrOCH6lJp1HoAzgNlK4A3I4LhzH5QcbXEHBBo" alt="Alamin Hossain - Full Stack Developer" width="100%"/>
+<img src="https://media.licdn.com/dms/image/v2/D5616AQEKjGg-4zL3Ow/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1708015077343?e=2147483647&v=beta&t=Utel6EGrOCH6lJp1HoAzgNlK4A3I4LhzH5QcbXEHBBo" alt="Alamin Hossain - Full Stack Developer" width="100%" />
+
+# Hi, I'm Alamin Hossain
+
+### Full Stack Developer | React & Next.js | TypeScript | MERN
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdalaminhossain2)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdalaminhossain.dev@gmail.com)
+[![GitHub Followers](https://img.shields.io/github/followers/Alamin4D?label=Followers&style=for-the-badge&color=0A66C2&logo=github&logoColor=white)](https://github.com/Alamin4D)
+![](https://komarev.com/ghpvc/?username=Alamin4D&label=Profile%20Views&color=0A66C2&style=for-the-badge)
 
 <br/>
 
-<!-- Typing Animation (Premium) -->
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=38&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Alamin+Hossain;%F0%9F%94%A5+Full+Stack+React+%26+Next.js+Developer;Building+Scalable+%26+Beautiful+Web+Apps;%E2%9A%A1+MERN+%7C+Next.js+%7C+TypeScript;Available+for+Full-time+%26+Freelance!" height="70"/>
+I'm a Full Stack Developer focused on building scalable, accessible, and production-ready web applications with React, Next.js, TypeScript, Node.js, and MongoDB. I care about clean code, solid UX, and delivering real business value. 
 
-<br/>
+Open to full-time roles, remote opportunities, and freelance work.
 
-<!-- Profile Views & Followers (Glow Effect) -->
-<img src="https://komarev.com/ghpvc/?username=Alamin4D&label=Profile+Views&color=FF0066&style=for-the-badge&logo=eye&logoColor=white" />
-<img src="https://img.shields.io/github/followers/Alamin4D?label=Followers&style=for-the-badge&color=00D4FF&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Portfolio-Visit_Now-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
-
-<br/><br/>
-
-<!-- Tech Stack with Hover Glow (Premium Icons) -->
-<h2>🚀 Tech Arsenal</h2>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50" title="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="50" title="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50" title="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="50" title="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="50" title="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="50" style="background:#000;color:#fff;border-radius:8px" title="Next.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="50" title="Tailwind CSS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="50" title="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="50" style="background:#000;color:#fff;border-radius:8px" title="Express"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="50" title="MongoDB"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" height="50" title="Prisma"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="50" title="Firebase"/>
-
-<br/><br/>
-
-<!-- Stats Cards (Tokyo Night + Glow) -->
-<div>
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=Alamin4D&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&title_color=00D4FF&text_color=ffffff&icon_color=FF0066&bg_color=0D1117" />
-  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=Alamin4D&theme=tokyonight&hide_border=true&border_radius=15&ring=FF0066&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=FF0066&background=0D1117" />
 </div>
 
-<br/>
+---
 
-<br/><br/>
+## About Me
 
-<br/><br/>
+- **Location:** Dhaka, Bangladesh
+- **Core Stack:** React, Next.js (App Router), TypeScript, Tailwind CSS, Node.js, Express, MongoDB, Prisma, PostgreSQL
+- **Currently working with:** Next.js 14+, TypeScript, REST/Socket.io, Stripe, Firebase Auth
+- **Focus:** Performance, clean architecture, responsive UI, and maintainable code
+- **Availability:** Open to full-time, remote, or contract opportunities
 
-<!-- Featured Projects (HR Magnet) -->
-<h2 align="center">🔥 Featured Projects (That Got Me Hired)</h2>
+---
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://shopsphere-alamin.netlify.app">
-        <img src="https://i.ibb.co.com/Your-ShopSphere-Screenshot-Link.jpg" alt="ShopSphere" style="border-radius:15px;box-shadow: 0 10px 30px rgba(0,212,255,0.4);"/>
-        <br/><b>ShopSphere</b><br/>Full E-commerce (Stripe + Auth)
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://devconnect-alamin.netlify.app">
-        <img src="" alt="DevConnect" style="border-radius:15px;box-shadow: 0 10px 30px rgba(255,0,102,0.4);"/>
-        <br/><b>DevConnect</b><br/>Social Media for Developers (Socket.io)
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://taskflow-alamin.vercel.app">
-        <img src="https://i.ibb.co.com/Your-TaskFlow-Screenshot-Link.jpg" alt="TaskFlow Pro" style="border-radius:15px;box-shadow: 0 10px 30px rgba(0,212,255,0.4);"/>
-        <br/><b>TaskFlow Pro</b><br/>Next.js 14 + Prisma + PostgreSQL
-      </a>
-    </td>
-  </tr>
-</table>
+## Tech Stack
 
-> 💡 প্রতিটি প্রজেক্টে Live Demo + Clean Code + Responsive + Production Ready
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<br/><br/>
+**Backend & Database**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-<!-- Connect Buttons (Glow) -->
-<h2>📩 Let's Build Something Amazing Together</h2>
-<p align="center">
-  <a href="https://linkedin.com/in/mdalaminhossain2">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mdalaminhossain.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Alamin4D">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+**Tools & Others**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
-<br/>
+---
 
-<!-- Contribution Snake (Dark Premium) -->
-<img src="https://raw.githubusercontent.com/Alamin4D/Alamin4D/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+## Featured Projects
 
-<br/>
+| Project | Description | Tech | Live | Code |
+|---|---|---|---|---|
+| **ShopSphere** | Full-featured e-commerce platform with authentication, product management, cart, and Stripe payments. | Next.js, TypeScript, Tailwind, Node.js, MongoDB, Stripe | [Live Demo](https://shopsphere-alamin.netlify.app) | [GitHub](https://github.com/Alamin4D/shopsphere) |
+| **DevConnect** | Developer-focused social platform with user profiles, posts, comments, and real-time messaging. | React, Node.js, Express, MongoDB, Socket.io | [Live Demo](https://devconnect-alamin.netlify.app) | [GitHub](https://github.com/Alamin4D/devconnect) |
+| **TaskFlow Pro** | Task management app with authentication, boards, drag & drop, and persistent data. | Next.js 14, TypeScript, Prisma, PostgreSQL, Tailwind | [Live Demo](https://taskflow-alamin.vercel.app) | [GitHub](https://github.com/Alamin4D/taskflow-pro) |
+
+*Each project is production-ready, fully responsive, and includes a live demo. If you're looking for something specific, feel free to check my [full portfolio](https://your-portfolio-link.com) or [repositories](https://github.com/Alamin4D?tab=repositories).* 
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <h3>⚡ Open for Full-time • Remote • Freelance • Contract</h3>
-  <b>React • Next.js • TypeScript • Node.js • MERN • Prisma</b><br/>
-  📍 Dhaka, Bangladesh 🇧🇩 | Always shipping clean & fast code
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=Alamin4D&show_icons=true&theme=default&hide_border=true&title_color=0A66C2&text_color=1f2328&icon_color=0A66C2" alt="GitHub Stats" />
+  <img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=Alamin4D&theme=default&hide_border=true&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2" alt="GitHub Streak" />
 </div>
+
+---
+
+## Let's Work Together
+
+I'm currently open to new opportunities. If you're hiring for a Full Stack (React/Next.js) role, need help with a project, or just want to connect, feel free to reach out: 
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdalaminhossain2)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdalaminhossain.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio-link.com)
+
+Looking forward to building something great with you.
 
 </div>
