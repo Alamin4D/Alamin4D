@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="YOUR_BANNER_IMAGE_URL" width="100%" alt="Banner"/>
+<img width="1774" height="887" alt="Image" src="https://github.com/user-attachments/assets/4c02ad81-4686-48e4-b9a9-0ba95e199589" />
 
 # Hi 👋, I'm Alamin Hossain
 
@@ -14,7 +14,7 @@ I build scalable, responsive, and production-ready web applications focused on c
 <img src="https://komarev.com/ghpvc/?username=Alamin4D&label=Profile%20Views&color=0A66C2&style=for-the-badge" />
 </p>
 
-<a href="https://your-portfolio-link.com">
+<a href="https://react-portfolio-alamin.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -22,7 +22,7 @@ I build scalable, responsive, and production-ready web applications focused on c
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:mdalaminhossain.dev@gmail.com">
+<a href="alaminahmed.dev@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -39,7 +39,7 @@ I'm a Full Stack Developer from Bangladesh who enjoys building modern web applic
 - 💬 Ask me about React, Next.js, TypeScript and MERN Stack
 - ⚡ Passionate about Performance, Clean Architecture & UI/UX
 - 📍 Dhaka, Bangladesh
-- 📧 mdalaminhossain.dev@gmail.com
+- 📧 alaminahmed.dev@gmail.com
 - 💼 Open to Full-Time, Remote & Freelance opportunities
 
 ---
@@ -78,7 +78,7 @@ I'm a Full Stack Developer from Bangladesh who enjoys building modern web applic
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://your-portfolio-link.com">
+<a href="https://react-portfolio-alamin.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge"/>
 </a>
 
@@ -97,15 +97,6 @@ I'm a Full Stack Developer from Bangladesh who enjoys building modern web applic
 
 </div>
 
----
-
-# 🏆 GitHub Trophy
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Alamin4D&theme=flat&no-frame=true&column=4"/>
-
-</div>
 
 ---
 
@@ -126,9 +117,9 @@ I'm currently available for:
 
 If you'd like to collaborate or discuss an opportunity, feel free to reach out.
 
-📧 Email: mdalaminhossain.dev@gmail.com
+📧 Email: alaminahmed.dev@gmail.com
 
-🌐 Portfolio: https://your-portfolio-link.com
+🌐 Portfolio: https://react-portfolio-alamin.vercel.app/
 
 💼 LinkedIn:
 https://linkedin.com/in/mdalaminhossain2
