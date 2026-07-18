@@ -22,7 +22,7 @@ I build scalable, responsive, and production-ready web applications focused on c
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="alaminahmed.dev@gmail.com">
+<a href="mailto:alaminahmed.dev@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -74,7 +74,7 @@ I'm a Full Stack Developer from Bangladesh who enjoys building modern web applic
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:mdalaminhossain.dev@gmail.com">
+<a href="mailto:alaminahmed.dev@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
@@ -84,25 +84,46 @@ I'm a Full Stack Developer from Bangladesh who enjoys building modern web applic
 
 </p>
 
+---
 
 # 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Alamin4D&show_icons=true&theme=github_light&hide_border=true"/>
+<!-- ✅ Updated URLs with count_private=true and fixed Streak Stats domain -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Alamin4D&show_icons=true&theme=github_light&hide_border=true&count_private=true" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Alamin4D&theme=github-light&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com/?user=Alamin4D&theme=github-light&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alamin4D&layout=compact&theme=github_light&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alamin4D&layout=compact&theme=github_light&hide_border=true&count_private=true" />
 
 </div>
-
 
 ---
 
 # 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alamin4D&theme=github-light"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alamin4D&theme=github-light" />
+
+---
+
+# 📊 My Development Analytics & Focus
+
+> *Driven by data, focused on quality. Here is what I track to ensure high-performance engineering.*
+
+### 🚀 Velocity & Workflow
+- **PR Cycle Time:** Keeping pull requests small (< 400 LOC) and merging efficiently.
+- **Code Quality:** Maintaining high CI/CD success rates and strict code coverage.
+- **Clean Architecture:** Focusing on maintainable, scalable, and production-ready codebases.
+
+### 📈 Performance Metrics
+- **Frontend:** Optimizing Core Web Vitals, reducing bundle sizes, and ensuring fast interactions.
+- **Backend:** Tracking API response times, database query optimization, and secure deployments.
+
+### 🛠️ Tools I Use for Analysis
+- **GitHub Insights:** Tracking personal commit velocity and language usage.
+- **Lighthouse / Vercel Analytics:** Monitoring frontend performance and user experience.
+- **Sentry / LogRocket:** Tracking defect escape rates and production errors.
 
 ---
 
@@ -121,5 +142,4 @@ If you'd like to collaborate or discuss an opportunity, feel free to reach out.
 
 🌐 Portfolio: https://react-portfolio-alamin.vercel.app/
 
-💼 LinkedIn:
-https://linkedin.com/in/mdalaminhossain2
+💼 LinkedIn: https://linkedin.com/in/mdalaminhossain2
