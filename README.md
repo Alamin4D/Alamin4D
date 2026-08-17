@@ -2,7 +2,7 @@
 
 <img width="1774" height="887" alt="Image" src="https://github.com/user-attachments/assets/4c02ad81-4686-48e4-b9a9-0ba95e199589" />
 
-# Hi 👋, I'm Alamin Hossain
+# Hi 👋, I'm Alamin Ahmed
 
 ### Full Stack Developer | React | Next.js | TypeScript | MERN Stack
 
