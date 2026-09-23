@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1774" height="887" alt="Image" src="https://github.com/user-attachments/assets/4c02ad81-4686-48e4-b9a9-0ba95e199589" />
+<img width="1983" height="793" alt="cover photo" src="https://github.com/user-attachments/assets/ac399f09-5303-482f-9043-777f01b9f096" />
 
 # Hi 👋, I'm Alamin Ahmed
 
@@ -51,12 +51,12 @@ I'm a Full Stack Developer from Bangladesh who enjoys building modern web applic
 ### 🚀 [FixItNow — Home Services Marketplace](আপনার_প্রজেক্টের_গিটহাব_লিংক)
 - **Tech Stack:** Next.js, TypeScript, PostgreSQL, Prisma ORM, Node.js, Stripe
 - **Key Features:** Full-stack service booking lifecycle, availability scheduling, role-based dashboards (Admin/Tech/User), and secure Stripe checkout flows.
-- [🔗 Live Demo](আপনার_লাইভ_লিংক) | [💻 Source Code](আপনার_গিটহাব_লিংক)
+- [🔗 Live Demo](https://fixitnow-frontend-assinment.vercel.app/) | [💻 Source Code](https://github.com/Alamin4D/fixitnow-frontend-assinment)
 
 ### 🍔 [Delish — Food Delivery Application](আপনার_প্রজেক্টের_গিটহাব_লিংক)
 - **Tech Stack:** Next.js, Tailwind CSS, Node.js, MongoDB, Firebase, JWT
 - **Key Features:** Voice search feature for easy menu discovery, state-managed active orders, and secure REST APIs with token authorization.
-- [🔗 Live Demo](আপনার_লাইভ_লিংক) | [💻 Source Code](আপনার_গিটহাব_লিংক)
+- [🔗 Live Demo](https://food-delivary-app-psi.vercel.app/) | [💻 Source Code](https://github.com/AlmasWD09/food-delivary-app)
 
 
 # 🚀 Tech Stack
