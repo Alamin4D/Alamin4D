@@ -44,6 +44,21 @@ I'm a Full Stack Developer from Bangladesh who enjoys building modern web applic
 
 ---
 
+---
+
+# 🛠️ Featured Projects
+
+### 🚀 [FixItNow — Home Services Marketplace](আপনার_প্রজেক্টের_গিটহাব_লিংক)
+- **Tech Stack:** Next.js, TypeScript, PostgreSQL, Prisma ORM, Node.js, Stripe
+- **Key Features:** Full-stack service booking lifecycle, availability scheduling, role-based dashboards (Admin/Tech/User), and secure Stripe checkout flows.
+- [🔗 Live Demo](আপনার_লাইভ_লিংক) | [💻 Source Code](আপনার_গিটহাব_লিংক)
+
+### 🍔 [Delish — Food Delivery Application](আপনার_প্রজেক্টের_গিটহাব_লিংক)
+- **Tech Stack:** Next.js, Tailwind CSS, Node.js, MongoDB, Firebase, JWT
+- **Key Features:** Voice search feature for easy menu discovery, state-managed active orders, and secure REST APIs with token authorization.
+- [🔗 Live Demo](আপনার_লাইভ_লিংক) | [💻 Source Code](আপনার_গিটহাব_লিংক)
+
+
 # 🚀 Tech Stack
 
 ### Frontend
