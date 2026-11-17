@@ -274,9 +274,9 @@ Developer portfolio showcasing **projects, skills, experience, research, and sof
   <img src="https://skillicons.dev/icons?i=react,tailwind,vite" height="32" alt="Portfolio Tech Stack"/>
 </p>
 
-[🌐 Live Website](https://personal-portfolio-pied-zeta.vercel.app/)
+[🌐 Live Website](https://react-portfolio-alamin.vercel.app/)
 •
-[📂 GitHub Repository](https://github.com/HasnathAhmedTamim/personal-portfolio)
+[📂 GitHub Repository](https://github.com/Alamin4D/react-portfolio)
 
 ---
 
