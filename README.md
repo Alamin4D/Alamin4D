@@ -266,7 +266,7 @@ Fantasy Premier League hub with **news, player analysis, points calculator, fixt
 
 ---
 
-## 🚀 [Personal Portfolio](https://personal-portfolio-pied-zeta.vercel.app/)
+## 🚀 [Personal Portfolio](https://react-portfolio-alamin.vercel.app/)
 
 Developer portfolio showcasing **projects, skills, experience, research, and software engineering journey**.
 
