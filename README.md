@@ -40,7 +40,6 @@
 # 👨‍💻 ABOUT ME
 
 - 💻 Software Developer building modern, scalable, production-ready web applications.
-- 🚀 Experience as **Junior Software Intern Engineer at Fiber@Home Ltd.** and **Intern Developer at Itransition Group**.
 - ⚙️ Working with **React, Next.js, TypeScript, Node.js, PostgreSQL, MongoDB, and Prisma**.
 - 🌱 Currently exploring **System Design, Docker, Backend Architecture, and Cloud Technologies**.
 - ⚽ Football enthusiast who enjoys building **sports-tech platforms and real-time applications**.
@@ -161,34 +160,7 @@
 
 **Also:** JWT Authentication · RBAC · REST APIs · MVC · Stripe · Zod · TanStack Query
 
----
 
-# 💼 PROFESSIONAL EXPERIENCE
-
-## Junior Software Intern Engineer
-
-### Fiber@Home Ltd.
-
-📅 **Dec 2025 – Jun 2026**
-
-- Developed and maintained responsive full-stack features using **React.js, Next.js, TypeScript, and Node.js**.
-- Built and integrated **RESTful APIs** to support frontend and backend workflows.
-- Collaborated with teams to deliver production-ready software.
-- Contributed to Android development using **Kotlin and Jetpack Compose**.
-
----
-
-## Intern Developer
-
-### Itransition Group
-
-📅 **Apr 2025 – Aug 2025**
-
-- Built **5+ React.js** mini projects focused on frontend development.
-- Worked with component-based architecture, API integration, and responsive UI.
-- Gained practical experience in **backend integration and database design**.
-
----
 
 # 🚀 FEATURED PROJECTS
 
